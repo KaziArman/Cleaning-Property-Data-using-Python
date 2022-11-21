@@ -1,4 +1,4 @@
-# Cleaning-Property-Data-using-Pandas
+# Cleaning-Property-Data-using-Python
 Using Python to remove bad data from the dataset.
 
 Modules used in this code are:-
